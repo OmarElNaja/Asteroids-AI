@@ -1,0 +1,2 @@
+Makefile:4: /share/copy/ece244f/lab4/etc/main.make: No such file or directory
+gmake: *** No rule to make target `/share/copy/ece244f/lab4/etc/main.make'.  Stop.
